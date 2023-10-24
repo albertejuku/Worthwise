@@ -1,2 +1,4 @@
-package com.worthwise.dao;public class PropertyDAO {
+package com.worthwise.dao;
+
+public class PropertyDAO {
 }
