@@ -1,5 +1,5 @@
 package com.worthwise.entities;
 
-public enum UserType {
+public enum UserRole {
     BUYER, SELLER
 }
